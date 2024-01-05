@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "": true
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true,
+    "files.autoSave": "onWindowChange",
+    "liveServer.settings.port": 5501
+}
